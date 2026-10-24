@@ -1,0 +1,1 @@
+gameDir=E:\mihiyou\miHoYo Launcher\games\Genshin Impact Game
